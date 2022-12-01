@@ -5,7 +5,7 @@
   <h2>Hi There!</h2>
  
   👨🏾‍💻 
-  I’m currently working on engineering team of **design systems** and **UI interactions** for [Stone.co](https://www.stone.co)!
+  I’m currently working on engineering team for [Stone.co](https://www.stone.co)!
 
   📍
   Live in Fortaleza, Brazil
